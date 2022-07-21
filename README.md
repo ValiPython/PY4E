@@ -2,6 +2,8 @@
 
 Please note that I'm a beginner and there might be some mistakes even wrong solutions but I promise I try to be as correct as I can be !
 
+Chapter 1 - Introduction: https://www.py4e.com/html3/01-intro
+
 Chapter 2 - Variables: https://www.py4e.com/html3/02-variables
 
 Chapter 3 - Conditionals: https://www.py4e.com/html3/03-conditional
